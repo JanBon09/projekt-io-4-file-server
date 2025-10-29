@@ -1,6 +1,6 @@
 const pathPrefix = "../resources"
 
-class File{
+class FileInfo {
     static enumerator = 0;
 
     constructor(title, fileName) {

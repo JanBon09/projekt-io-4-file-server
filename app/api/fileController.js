@@ -1,5 +1,5 @@
 const fileRangeController = {
     fileRange: async (req, res) => {
-        req
+        req.body.json.
     }
 }
